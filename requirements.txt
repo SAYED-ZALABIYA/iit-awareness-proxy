@@ -1,0 +1,7 @@
+torch
+numpy
+matplotlib
+seaborn
+pandas
+pyphi==1.2.0
+joblib==1.2.0
